@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
 <img align="right" alt="Coding" width="250" height="300" src="cahyo.jpg">
 
-- 👨‍💻 You can also check out my portfolio at [https://cahyotriatmojo37.github.io/](https://cahyotriatmojo37.github.io/)
+- 
 
 - 📫 How to reach me **cahyoatmojo37@gmail.com**
 
