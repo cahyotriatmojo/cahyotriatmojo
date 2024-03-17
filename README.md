@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **PHP, React, C++, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **PHP, React, C++, Firebase... or anything [here](https://github.com/cahyotriatmojo37/cahyotriatmojo37/issues)**
 
 ⚡ Fun fact **My Birthday 123**
 
@@ -29,7 +29,7 @@
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://cahyotriatmojo37.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind" />
-    <img src="https://skillicons.dev/icons?i=python,php,firebase,mongodb,c++,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,php,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
