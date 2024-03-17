@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cahyo Tri Atmojo</h1>
-<h3 align="center">I'm from Indonesia</h3>
+<h3 align="center">I'm from CENTRAL JAVA INDONESIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cahyotriatmojo37&label=Profile%20views&color=0e75b6&style=flat" alt="cahyotriatmojo37" /> </p>
 
