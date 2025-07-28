@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cahyotriatmojo37&label=Profile%20views&color=0e75b6&style=flat" alt="cahyotriatmojo37" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Android, and Golang**
+- 🌱 I’m currently learning **Laravel, JavaScript, and Golang**
 
-- 💬 Ask me about **php, vue, bootstrap, css, html**
+- 💬 Ask me about **PHP, vue, bootstrap, css, html**
 
 - 📫 How to reach me **cahyoatmojo37@gmail.com**
 
